@@ -2,7 +2,7 @@
 
 I'm a passionate web developer with a strong background in computer science. I enjoy working on innovative projects and contributing to the tech community. Here you'll find a collection of my projects and contributions.
 
-![Developer GIF](/giphy.gif)
+![Developer GIF](/index.gif)
 
 ## 🚀 About Me
 
