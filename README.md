@@ -18,6 +18,7 @@ I'm a passionate web developer with a strong background in computer science. I e
 [![JAVASCRIPT Logo](https://img.icons8.com/fluency/48/javascript.png)](https://www.w3schools.com/js/)
 [![BOOTSTRAP Logo](https://img.icons8.com/fluency/48/bootstrap.png)](https://getbootstrap.com/)
 [![TAILWIND Logo](https://img.icons8.com/fluency/48/tailwind_css.png)](https://tailwindcss.com/)
+[![REACT Logo](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)](https://react.dev/)
 [![SQL Logo](https://img.icons8.com/arcade/48/sql.png)](https://www.w3schools.com/sql/)
 [![MYSQL Logo](https://img.icons8.com/fluency/48/mysql-logo.png)](https://www.mysql.com/)
 [![PHP Logo](https://img.icons8.com/officel/48/php-logo.png)](https://www.php.net/)
