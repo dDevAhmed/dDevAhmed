@@ -57,7 +57,6 @@ I'm a passionate **Fullstack Developer** with a background in **Computer Science
 [![SQL Logo](https://img.icons8.com/arcade/48/sql.png)](https://www.w3schools.com/sql/)
 [![MYSQL Logo](https://img.icons8.com/fluency/48/mysql-logo.png)](https://www.mysql.com/)
 [![MongoDB](https://img.icons8.com/color/48/mongodb.png)](https://www.mongodb.com/)
-[![MySQL](https://img.icons8.com/fluency/48/mysql-logo.png)](https://www.mysql.com/)
 [![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)](https://www.postgresql.org/)
 [![Firebase](https://img.icons8.com/color/48/firebase.png)](https://firebase.google.com/)
 [![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com/)
