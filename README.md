@@ -59,6 +59,7 @@ I'm a passionate **Fullstack Developer** with a background in **Computer Science
 [![MongoDB](https://img.icons8.com/color/48/mongodb.png)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)](https://www.postgresql.org/)
 [![Firebase](https://img.icons8.com/color/48/firebase.png)](https://firebase.google.com/)
+[![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)](https://postman.com/)
 [![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com/)
 [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/)
 [![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)](https://code.visualstudio.com/)
