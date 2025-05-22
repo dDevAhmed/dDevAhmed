@@ -10,8 +10,8 @@ I'm a passionate **Fullstack Developer** with a background in **Computer Science
 
 - 👨‍💻 Fullstack Developer – Proficient in React.js, Node.js, NestJS, React Native, Laravel & more
 - 🎓 Studied Computer Science at Abubakar Tafawa Balewa University
-- 🌍 Actively exploring Web3, DevOps, and Open Source technologies
-- 📱 Currently building cross-platform applications using **React Native**
+- 🌍 Actively exploring AI, Web3, DevOps, and Open Source technologies
+<!-- - 📱 Currently building cross-platform applications using **React Native** -->
 - 🔧 Improving system architecture, API development & database design
 - 🧠 Lifelong learner – currently diving deeper into **Cloud Engineering** & **Backend Scalability**
 - 🤝 Open to collaborations, mentorship, and new challenges!
